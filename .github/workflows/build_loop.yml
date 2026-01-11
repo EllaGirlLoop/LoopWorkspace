@@ -219,6 +219,7 @@ jobs:
           future_carbs_4h \
           no_auth \
           now_line \
+          profiles \
           watch_title
 
           # the final customization listed above CANNOT have a continuation character
